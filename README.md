@@ -84,12 +84,19 @@ We engineered over **220 features** per observation, grouped into:
 
 ---
 
+```markdown
 ## 🗂 Project Directory
 
+```
+
 optiver-trading-at-the-close-predictive-modeling/
-├── data/ # Raw and processed datasets
-├── notebooks/ # EDA & modeling experiments
-├── models/ # Trained model artifacts (.pkl)
-├── outputs/ # Submission files, logs, metrics
-├── utils/ # Custom feature engineering scripts
-└── README.md # This documentation
+├── data/        # Raw and processed datasets
+├── notebooks/   # EDA and modeling experiments
+├── models/      # Trained model artifacts (.pkl files)
+├── outputs/     # Submission files, logs, MAE reports
+├── utils/       # Custom feature engineering scripts
+└── README.md    # Project documentation
+
+```
+```
+
