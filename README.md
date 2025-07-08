@@ -31,8 +31,8 @@ Our goal was to develop a predictive pipeline that models **imbalance size in re
 
 ## 🔍 Window-Based Modeling Framework
 
-| Window | Time Interval (s) | Dynamics |
-|--------|-------------------|----------|
+| Window | Time Interval (s) | 
+|--------|-------------------|
 | 0–290  | Early phase with tight spreads and low volatility |
 | 300–470 | Imbalance build-up as auction book dynamics intensify |
 | 480–540 | Volatility peaks under final match pressure |
