@@ -84,7 +84,7 @@ We engineered over **220 features** per observation, grouped into:
 
 ---
 
-```markdown
+
 ## 🗂 Project Directory
 
 ```
@@ -98,5 +98,5 @@ optiver-trading-at-the-close-predictive-modeling/
 └── README.md    # Project documentation
 
 ```
-```
+
 
